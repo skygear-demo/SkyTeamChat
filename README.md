@@ -1,9 +1,9 @@
-# SkyTeamChat
+# 💬 SkyTeamChat
 Opensource workspace chat alternative to Slack for free
 
 ![Sky Team](docs/skyteam.png)
 
-A place for teams to *communicate*, *document* and *automate*. 
+A place for teams to *communicate*, *collaborate* and *automate*. 
 
 ---
 ### Features
